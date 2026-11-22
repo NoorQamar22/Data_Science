@@ -51,6 +51,9 @@ Click Runtime → Run all. The dataset downloads automatically; if it fails, upl
 To run the dashboard locally instead:
 
 pip install streamlit plotly pandas
+
 streamlit run app/app.py
+
 Student / Author
+
 Noor Qamar – AI/ML Intern, Devixo Solutions
