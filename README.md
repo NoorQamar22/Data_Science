@@ -43,13 +43,7 @@ Visualizations
 Price distribution RAM vs price Correlation heatmap
 
 Project Structure
-Task_01_AI_ML/
-├── dataset/        laptop_data.csv, laptop_data_cleaned.csv
-├── notebook/       Task_01_Data_Analysis_Rafay.ipynb
-├── images/         visualization_01.png ... visualization_10.png
-├── report/         Report
-├── app/            app.py  (Streamlit dashboard)
-└── README.md
+
 How to Run the Project
 Open notebook/Task_01_Data_Analysis_Rafay.ipynb in Google Colab (upload it, or use "Open in Colab" from GitHub).
 Click Runtime → Run all. The dataset downloads automatically; if it fails, upload laptop_data.csv when asked.
