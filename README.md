@@ -1,7 +1,7 @@
 Laptop Price & Specification Analysis
 Devixo Solutions – AI/ML Internship Program | Task 01: Python Programming, Data Analysis & Visualization
 
-Author: Rafay | Domain: AI/ML
+Author: Noor Qamar | Domain: AI/ML
 
 Project Objective
 Take a raw, real-world dataset through a complete data-analysis pipeline (loading, cleaning, EDA, statistical analysis, visualization and insight generation) to find out which specifications drive laptop prices.
@@ -47,7 +47,7 @@ Task_01_AI_ML/
 ├── dataset/        laptop_data.csv, laptop_data_cleaned.csv
 ├── notebook/       Task_01_Data_Analysis_Rafay.ipynb
 ├── images/         visualization_01.png ... visualization_10.png
-├── report/         Task_01_Report.pdf
+├── report/         Report
 ├── app/            app.py  (Streamlit dashboard)
 └── README.md
 How to Run the Project
